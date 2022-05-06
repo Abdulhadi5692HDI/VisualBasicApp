@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HadiApp", "HadiApp\HadiApp.vbproj", "{CB85418C-7439-49BB-A3F8-C0B166FDCF4B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TestHadiApp", "TestHadiApp\TestHadiApp.vbproj", "{958A4C0B-CD38-44FD-8B8F-280410223447}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3C41D85E-006C-4C85-9B79-2E2D12535924}"
+	ProjectSection(SolutionItems) = preProject
+		HadiApp.vsmdi = HadiApp.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = HadiApp.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB85418C-7439-49BB-A3F8-C0B166FDCF4B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CB85418C-7439-49BB-A3F8-C0B166FDCF4B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{CB85418C-7439-49BB-A3F8-C0B166FDCF4B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{CB85418C-7439-49BB-A3F8-C0B166FDCF4B}.Debug|x86.ActiveCfg = Debug|x86
+		{CB85418C-7439-49BB-A3F8-C0B166FDCF4B}.Debug|x86.Build.0 = Debug|x86
+		{CB85418C-7439-49BB-A3F8-C0B166FDCF4B}.Release|Any CPU.ActiveCfg = Release|x86
+		{CB85418C-7439-49BB-A3F8-C0B166FDCF4B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{CB85418C-7439-49BB-A3F8-C0B166FDCF4B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{CB85418C-7439-49BB-A3F8-C0B166FDCF4B}.Release|x86.ActiveCfg = Release|x86
+		{CB85418C-7439-49BB-A3F8-C0B166FDCF4B}.Release|x86.Build.0 = Release|x86
+		{958A4C0B-CD38-44FD-8B8F-280410223447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958A4C0B-CD38-44FD-8B8F-280410223447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958A4C0B-CD38-44FD-8B8F-280410223447}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{958A4C0B-CD38-44FD-8B8F-280410223447}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{958A4C0B-CD38-44FD-8B8F-280410223447}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{958A4C0B-CD38-44FD-8B8F-280410223447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958A4C0B-CD38-44FD-8B8F-280410223447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958A4C0B-CD38-44FD-8B8F-280410223447}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{958A4C0B-CD38-44FD-8B8F-280410223447}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{958A4C0B-CD38-44FD-8B8F-280410223447}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
